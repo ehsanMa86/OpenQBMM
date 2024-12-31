@@ -41,7 +41,7 @@ NSF – ACI 1440443 for the period between October 1st, 2014 and September 30th,
 
 ## How to cite
 
-Cite OpenQBMM using the Zenodo DOI [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4007235.svg)](https://doi.org/10.5281/zenodo.4007235)
+Cite OpenQBMM using the Zenodo DOI [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.591651.svg)](https://doi.org/10.5281/zenodo.591651)
 
 Release-specific DOIs can be found on the Zenodo webpage: click in the badge
 and find the DOI of the desired version in the version list.
@@ -50,4 +50,3 @@ and find the DOI of the desired version in the version list.
 
 * Website: http://www.OpenQBMM.org
 * GitHub: https://github.com/OpenQBMM
-* Twitter: https://twitter.com/OpenQBMM
